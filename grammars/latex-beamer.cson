@@ -1,6 +1,8 @@
 'scopeName': 'text.tex.latex.beamer'
 'name': 'LaTeX Beamer'
-'fileTypes': []
+'fileTypes': [
+  'tex'
+]
 'firstLineMatch': '^\\\\documentclass(\\[.*\\])?\\{beamer\\}'
 'patterns': [
   {

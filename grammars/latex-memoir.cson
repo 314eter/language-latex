@@ -1,6 +1,8 @@
 'scopeName': 'text.tex.latex.memoir'
 'name': 'LaTeX Memoir'
-'fileTypes': []
+'fileTypes': [
+  'tex'
+]
 'firstLineMatch': '^\\\\documentclass(\\[.*\\])?\\{memoir\\}'
 'patterns': [
   {
